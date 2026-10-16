@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build Semana_2/CMakeFiles/Semana_2.dir/estruc_selectivas.cpp.obj: dyndep
-
-build Semana_2/CMakeFiles/Semana_2.dir/estruc_repetitivas.cpp.obj: dyndep
-

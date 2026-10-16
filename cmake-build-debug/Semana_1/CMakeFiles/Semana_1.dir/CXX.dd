@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build Semana_1/CMakeFiles/Semana_1.dir/main.cpp.obj: dyndep
-
-build Semana_1/CMakeFiles/Semana_1.dir/Ufunciones.cpp.obj: dyndep
-
