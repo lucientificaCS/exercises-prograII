@@ -1,0 +1,15 @@
+# Carpetas de compilación de CLion / CMake
+cmake-build-*/
+.idea/
+
+# Archivos generados por SWIG (si se generan dentro del proyecto)
+*_wrap.cxx
+*_wrap.cpp
+*_wrap.h
+*.pyc
+
+# Binarios y ejecutables
+*.exe
+*.out
+*.o
+*.obj

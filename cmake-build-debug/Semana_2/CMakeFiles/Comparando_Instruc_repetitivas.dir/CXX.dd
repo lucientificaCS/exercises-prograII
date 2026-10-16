@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build Semana_2/CMakeFiles/Comparando_Instruc_repetitivas.dir/comparando_bucles.cpp.obj: dyndep
+

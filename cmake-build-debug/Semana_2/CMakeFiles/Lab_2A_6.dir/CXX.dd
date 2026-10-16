@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build Semana_2/CMakeFiles/Lab_2A_6.dir/Ejerci_2A_6.cpp.obj: dyndep
+
