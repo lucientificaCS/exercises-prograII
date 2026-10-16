@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build Semana_3/CMakeFiles/TEORIA_FUNCIONES.dir/Teo_Funciones.cpp.obj: dyndep
-
-build Semana_3/CMakeFiles/TEORIA_FUNCIONES.dir/main.cpp.obj: dyndep
-
